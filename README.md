@@ -1,1 +1,1 @@
-Write sthing here to describe your project
+This is my Project 2 for Data Science course. It is about the performance review of all ASEAN countries using few selected indicators (education, health and economic) from the World Development Indicators from World bank database.
